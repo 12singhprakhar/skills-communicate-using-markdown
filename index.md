@@ -16,4 +16,7 @@ var myVar = "Hello, world!";
 str='hi by python'
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
